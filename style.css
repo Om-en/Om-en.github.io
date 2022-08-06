@@ -1,0 +1,84 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #294d4d;
+}
+
+#projects {
+  background-color: #294d4d;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.footer {
+  box-sizing: none;
+}
+
+body {
+  background-color: #9aa3a0;
+}
+
+.form-control {
+  background-color: #9aa3a0;
+}
+
+footer {
+  background-color: #294d4d;
+}
+
+nav {
+  background-color: #294d4d;
+}
+
+.btn {
+  background-color: #294d4d;
+}
+
+h1 {
+  color: #9aa3a0;
+  font-style: italic;
+}
+p.lead {
+  color: #9aa3a0;
+}
+.warna,
+h4 {
+  color: #9aa3a0;
+}
+.warni {
+  color: #294d4d;
+}
+
+.card-img-top {
+  width: 511px;
+  height: 511px;
+}
+
+.card {
+  width: 512px;
+  height: 512px;
+}
+.besar {
+  width: 511px;
+  height: 451px;
+}
+
+.tim img {
+  width: 250px;
+  border: 10px solid #9aa3a0;
+}
+a.social {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #333;
+  line-height: 40px;
+}
+
+.img-fix {
+  width: 250px;
+  height: 250px;
+}
