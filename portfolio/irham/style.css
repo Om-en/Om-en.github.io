@@ -1,10 +1,10 @@
 .jumbotron {
   padding-top: 6rem;
-  background-color: #203e58;
+  background-color: #462154;
 }
 
 #projects {
-  background-color: #203e58;
+  background-color: #462154;
 }
 
 section {
@@ -16,28 +16,28 @@ section {
 }
 
 .navbar {
-  background-color: #50777a;
+  background-color: #a99b92;
 }
 
 .light {
-  color: #50777a;
+  color: #a99b92;
 }
 
 .dark {
-  color: #203e58;
+  color: #462154;
   text-decoration: none;
 }
 
 .bord {
   border-radius: 3px;
-  border-color: #50777a;
-  background-color: #50777a;
+  border-color: #a99b92;
+  background-color: #a99b92;
 }
 
 .lightbg {
-  background-color: #50777a;
+  background-color: #a99b92;
 }
 
 .darkbg {
-  background-color: #203e58;
+  background-color: #462154;
 }
